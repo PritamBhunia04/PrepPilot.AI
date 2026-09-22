@@ -12,12 +12,21 @@
 Practice interview sessions with AI-generated questions and follow-up interactions.
 <img width="1899" height="1074" alt="image" src="https://github.com/user-attachments/assets/efd12b7e-22be-48f5-a0c6-a8fdbfdf4f44" />
 
+<img width="1899" height="1074" alt="image" src="https://github.com/user-attachments/assets/8cb4ca3d-8e5c-457c-9380-044106395b9e" />
+
+<img width="1895" height="1074" alt="image" src="https://github.com/user-attachments/assets/937c618f-6fab-4d2f-b5b4-55d435a95429" />
+
 
 ### 👤 Role & Experience Selection
 Choose your target role and experience level to practice interview scenarios suited to your profile.
+<img width="1911" height="1074" alt="image" src="https://github.com/user-attachments/assets/5d0c9414-cb55-4271-91fa-c720f1215169" />
+
+<img width="1911" height="1074" alt="image" src="https://github.com/user-attachments/assets/4ca1b1d5-263d-482a-af0a-56b47ef3db74" />
+
 
 ### 🗣️ Smart Voice Interview
 Practice answering interview questions using your voice for a more realistic interview experience.
+<img width="1911" height="1074" alt="image" src="https://github.com/user-attachments/assets/523bb479-220a-4433-a091-4a668208bf89" />
 
 ### 💼 HR & Technical Interview Modes
 - **HR Interview** – Focuses on behavioral, communication, and general interview questions.
@@ -34,9 +43,11 @@ Experience interview pressure with a countdown timer and limited time for each q
 
 ### 📈 Interview History & Analytics
 Review previous interview sessions, scores, and performance information.
+<img width="1911" height="1074" alt="image" src="https://github.com/user-attachments/assets/08f7de96-70d8-4542-8d3a-791bd92691e6" />
 
 ### 📥 PDF Performance Report
 Generate a downloadable report containing interview performance, strengths, weaknesses, and improvement insights.
+<img width="1892" height="1074" alt="image" src="https://github.com/user-attachments/assets/e24952ec-c9e8-4b4a-9a79-80005e80a98d" />
 
 ### 💳 Credits & Plans
 PrepPilot.AI includes a credit-based system with different plans:
@@ -45,6 +56,7 @@ PrepPilot.AI includes a credit-based system with different plans:
 - Pro Pack
 
 Payments are integrated using Razorpay.
+<img width="1911" height="1074" alt="image" src="https://github.com/user-attachments/assets/586bec42-76a0-4b0b-9390-cbbe988d33a4" />
 
 ---
 
