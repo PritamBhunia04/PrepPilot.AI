@@ -36,6 +36,8 @@ Practice answering interview questions using your voice for a more realistic int
 
 ### 📄 Resume-Based Interview
 Upload a resume and use the extracted information to generate project- and skill-related interview questions.
+<img width="1895" height="1074" alt="image" src="https://github.com/user-attachments/assets/7276bb82-dfce-4c05-aadb-fc92f0bd8e9f" />
+
 
 ### 📊 AI Answer Evaluation
 Get performance feedback based on areas such as communication, technical accuracy, and confidence.
@@ -44,6 +46,8 @@ Get performance feedback based on areas such as communication, technical accurac
 
 ### ⏱️ Timed Interview Simulation
 Experience interview pressure with a countdown timer and limited time for each question.
+<img width="1911" height="1074" alt="image" src="https://github.com/user-attachments/assets/9913d9da-c49d-45d4-bb52-fb09501053c6" />
+
 
 ### 📈 Interview History & Analytics
 Review previous interview sessions, scores, and performance information.
