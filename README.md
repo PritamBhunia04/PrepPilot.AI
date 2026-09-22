@@ -100,8 +100,8 @@ AI-INTERVIEW-AGENT/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/PritamBhunia04/AI-INTERVIEW-AGENT.git
-cd AI-INTERVIEW-AGENT
+git clone https://github.com/PritamBhunia04/PrepPilot.AI.git
+cd PrepPilot.AI
 ```
 
 ### 2. Install frontend dependencies
