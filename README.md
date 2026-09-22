@@ -31,12 +31,16 @@ Practice answering interview questions using your voice for a more realistic int
 ### 💼 HR & Technical Interview Modes
 - **HR Interview** – Focuses on behavioral, communication, and general interview questions.
 - **Technical Interview** – Focuses on technical questions related to the selected role.
+<img width="1911" height="1074" alt="image" src="https://github.com/user-attachments/assets/b240db16-6e83-4bb4-baeb-4553f3cb25c5" />
+
 
 ### 📄 Resume-Based Interview
 Upload a resume and use the extracted information to generate project- and skill-related interview questions.
 
 ### 📊 AI Answer Evaluation
 Get performance feedback based on areas such as communication, technical accuracy, and confidence.
+<img width="1892" height="1074" alt="image" src="https://github.com/user-attachments/assets/55df984e-6343-43b7-a8bb-b6263b9047bd" />
+
 
 ### ⏱️ Timed Interview Simulation
 Experience interview pressure with a countdown timer and limited time for each question.
