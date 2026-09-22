@@ -10,6 +10,8 @@
 
 ### 🤖 AI-Powered Interviews
 Practice interview sessions with AI-generated questions and follow-up interactions.
+<img width="1899" height="1074" alt="image" src="https://github.com/user-attachments/assets/efd12b7e-22be-48f5-a0c6-a8fdbfdf4f44" />
+
 
 ### 👤 Role & Experience Selection
 Choose your target role and experience level to practice interview scenarios suited to your profile.
